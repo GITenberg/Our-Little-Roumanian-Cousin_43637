@@ -1,0 +1,32 @@
+_repo: Our-Little-Roumanian-Cousin_43637
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Meister, Charles E.
+    gutenberg_agent_id: '43593'
+    url: http://www.gutenberg.org/2009/agents/43593
+covers:
+- cover_type: archival
+  image_path: 43637-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Winlow, Clara Vostrovsky
+    birthdate: 1876
+    gutenberg_agent_id: '42201'
+    url: http://www.gutenberg.org/2009/agents/42201
+description: ''
+gutenberg_issued: '2013-09-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43637'
+  lccn: '17021795'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DR'
+- !lcc 'PZ'
+- !lcsh 'Children -- Romania -- Juvenile literature'
+title: Our Little Roumanian Cousin
+url: http://www.gutenberg.org/ebooks/43637
